@@ -1,6 +1,6 @@
 # mino.js
 
-GameCube controller library for JavaScript. Plug in any GameCube adapter and get normalized, event-driven input in the browser — zero dependencies, ~5 KB minified.
+GameCube controller library for JavaScript. Plug in any GameCube adapter and get normalized, event-driven input in the browser zero dependencies, ~5 KB minified.
 
 ## Features
 
