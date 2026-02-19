@@ -203,7 +203,3 @@ Any browser implementing the [W3C Gamepad API](https://w3c.github.io/gamepad/):
 - Edge 12+
 - Safari 10.1+
 - Opera 15+
-
-## License
-
-MIT
