@@ -1,2 +1,2 @@
 # mino.js
-A niche javascript library for interacting with gamecube controllers.
+GameCube controller library for the browser. Supports Nintendo, Mayflash, and Raphnet adapters via the W3C Gamepad API.
